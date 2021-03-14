@@ -12,8 +12,8 @@ pip install matplotlib
 pip install sklearn
 pip install catboost
 ```
-
-R2 score, or the coefficient of determination was used to compare machine learning algorithms, wich is colculated as follows: 
+### Metric
+R2 score, or the coefficient of determination was used to compare machine learning algorithms, which was calculated as follows: 
 
 ![image](https://user-images.githubusercontent.com/64543329/111061934-e375e200-84b6-11eb-90f1-54438043b686.png)
 
