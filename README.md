@@ -23,9 +23,9 @@ R2 score, or the coefficient of determination was used to compare machine learni
 |Method | R2 with all features, ±0.2 | R2 with selected features, ±0.2 
 ---|---|---
 |Linear Regression | 0.44 | 0.46
-|Gradient Boosting Regressor |0.65 |0.76
-|Decision Tree Regressor |0.22|0.56
-|Random Forest Regressor |0.56|0.72
+|Gradient Boosting Regressor |0.64 |0.74
+|Decision Tree Regressor |0.28|0.56
+|Random Forest Regressor |0.57|0.72
 |AdaBoost Regressor |0.55|0.63
-|XGB Regressor | 0.70|0.76
-|CatBoost Regressor |0.76|0.76
+|XGB Regressor | 0.70|0.74
+|CatBoost Regressor |0.69|0.75
