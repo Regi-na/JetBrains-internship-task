@@ -20,7 +20,7 @@ R2 score, or the coefficient of determination was used to compare machine learni
 [The source](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
 
 ### Methods and results:
-|Method | R2 with all features | R2 with selected features 
+|Method | R2 with all features, ±0.2 | R2 with selected features, ±0.2 
 ---|---|---
 |Linear Regression | 0.44 | 0.46
 |Gradient Boosting Regressor |0.65 |0.76
